@@ -5,6 +5,9 @@ Key to Escape is a dark-themed 3D maze survival game where players must explore 
 
 ---
 
+Playable Link :
+https://mohd-sheharyar.itch.io/key-to-escape
+
 # 🎮 Game Overview
 
 In Key to Escape, players are placed inside a mysterious maze filled with hidden dangers and challenging pathways. The objective is to locate different keys scattered throughout the map while avoiding traps and surviving environmental hazards.
