@@ -21,7 +21,7 @@ The game focuses on:
 * Key collection mechanics
 * Health and life management
 * Dark atmospheric environment
-
+   
 ---
 
 # ✨ Features
