@@ -19,7 +19,7 @@ The game focuses on:
 * Survival gameplay 
 * Trap avoidance
 * Key collection mechanics
-* Health and life management
+* Health and life management 
 * Dark atmospheric environment
    
 ---
