@@ -15,7 +15,7 @@ In Key to Escape, players are placed inside a mysterious maze f illed with hidde
 
 The game focuses on:
  
-* Maze exploration
+* Maze exploration 
 * Survival gameplay 
 * Trap avoidance
 * Key collection mechanics
