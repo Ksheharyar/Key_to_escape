@@ -22,7 +22,7 @@ The game focuses on:
 * Health and life management 
 * Dark atmospheric environment
    
----
+--- 
 
 # ✨ Features
 
