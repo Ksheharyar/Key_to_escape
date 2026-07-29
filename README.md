@@ -14,7 +14,7 @@ https://mohd-sheharyar.itch.io/key-to-escape
 In Key to Escape, players are placed inside a mysterious maze f illed with hidden dangers and challenging pathways. The objective is to locate different keys scattered throughout the map while avoiding traps and surviving environmental hazards.
  
 The game focuses on:  
-  
+ 
 * Maze exploration 
 * Survival gameplay 
 * Trap avoidance
